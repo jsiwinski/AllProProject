@@ -12,3 +12,8 @@ An ML forecasting project to predict future All-NBA selection probabilities for 
 *Example Application of Model* - LikelihoodAllNBA.R
 
 *Interactive App of Results* - app.R
+
+
+## Probability App 
+
+Visit https://joesiwinski.shinyapps.io/AllNBAProjections/ to see every player's All NBA probability for each year of their career. This app was made using Shiny R.
