@@ -1,6 +1,6 @@
 # Forecasting All-NBA Selection Probabilities
 
-A forecasting project to predict future All-NBA selection probabilities for each player in the NBA
+An ML forecasting project to predict future All-NBA selection probabilities for each player in the NBA. In this project I will use historic NBA player data to train a xGboost Model designed to predict the probability that a player will make an All NBA team. 
 
 
 ## R Script Guide:
