@@ -9,7 +9,7 @@ An ML forecasting project to predict future All-NBA selection probabilities for 
 
 This script is where I train a GBM using xGboost in R. This model is designed to predict the probability that each player will make an All NBA team.
 
-
+<br/>
 
 *Player Stat Projection* - CareerTrajectory.R
 
