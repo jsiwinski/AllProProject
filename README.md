@@ -27,8 +27,6 @@ An example of model application to four example players (Curry, Doncic, Towns, a
 
 Script that powers the interactive app that displays model predictions for each player.
 
-<br/>
-
 ## Probability App 
 
 Visit https://joesiwinski.shinyapps.io/AllNBAProjections/ to see every player's All NBA probability for each year of their career. This app was made using Shiny R.
